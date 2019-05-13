@@ -10,12 +10,12 @@ This is the code repository for [Penetration Testing with the Bash shell](https:
 This book teaches you to take your problem solving capabilities to the next level with the Bash shell, to assess network and application level security by leveraging the power of the command-line tools available with Kali Linux.
 
 This book covers the following exciting features:
-Perform network enumeration techniques with Dig, whois, dnsenum, dnsmap, and others 
-Learn how to fuzz and reverse engineer using the Kali Linux command line tools 
-Exploit common web application vulnerabilities using skipfish, arcachi, and sqlmap 
-Accomplish man-in-the-middle attacks straight from your command line 
-Assess SSL security using sslyze and openssl 
-Carry out network traffic analysis using tcpdump 
+* Perform network enumeration techniques with Dig, whois, dnsenum, dnsmap, and others 
+* Learn how to fuzz and reverse engineer using the Kali Linux command line tools 
+* Exploit common web application vulnerabilities using skipfish, arcachi, and sqlmap 
+* Accomplish man-in-the-middle attacks straight from your command line 
+* Assess SSL security using sslyze and openssl 
+* Carry out network traffic analysis using tcpdump 
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1849695105) today!
 
