@@ -1,6 +1,6 @@
 # Penetration Testing with the Bash shell 
 
-<a href="https://prod.packtpub.com/in/networking-and-servers/penetration-testing-bash-shell?utm_source=github&utm_medium=repository&utm_campaign=9781784399597 "><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B03919_Mastering%20Linux%20Network%20Administration_.jpg" alt="Penetration Testing with the Bash shell " height="256px" align="right"></a>
+<a href="https://prod.packtpub.com/in/networking-and-servers/penetration-testing-bash-shell?utm_source=github&utm_medium=repository&utm_campaign=9781784399597 "><img src="https://prod.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/5/1/5107os_mockupcover_normal.jpg" alt="Penetration Testing with the Bash shell " height="256px" align="right"></a>
 
 This is the code repository for [Penetration Testing with the Bash shell ](https://prod.packtpub.com/in/networking-and-servers/penetration-testing-bash-shell?utm_source=github&utm_medium=repository&utm_campaign=9781784399597 ), published by Packt.
 
